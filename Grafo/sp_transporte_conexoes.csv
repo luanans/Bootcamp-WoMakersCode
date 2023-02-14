@@ -1,0 +1,190 @@
+estacaoId0,nome0,estacaoId1,nome1
+8,Tucuruvi,9,Parada Inglesa
+9,Parada Inglesa,10,Jardim São Paulo-Ayrton Senna
+10,Jardim São Paulo-Ayrton Senna,11,Santana
+11,Santana,12,Carandiru
+12,Carandiru,13,Portuguesa-Tietê
+13,Portuguesa-Tietê,14,Armênia
+14,Armênia,15,Tiradentes
+15,Tiradentes,171,Luz
+171,Luz,17,São Bento
+17,São Bento,186,Sé
+186,Sé,19,Japão-Liberdade
+19,Japão-Liberdade,20,São Joaquim
+20,São Joaquim,21,Vergueiro
+21,Vergueiro,174,Paraíso
+174,Paraíso,152,Ana Rosa
+152,Ana Rosa,24,Vila Mariana
+24,Vila Mariana,25,SantaCruz
+25,SantaCruz,26,Praça da Árvore
+26,Praça da Árvore,27,Saúde
+27,Saúde,28,São Judas
+28,São Judas,29,Conceição
+29,Conceição,30,Jabaquara
+188,Vila Madalena,52,S. N. Sra. De Fátima-Sumaré
+52,S. N. Sra. De Fátima-Sumaré,51,Clínicas
+51,Clínicas,50,Consolação
+50,Consolação,49,Trianon-Masp
+49,Trianon-Masp,48,Brigadeiro
+48,Brigadeiro,175,Paraíso
+175,Paraíso,153,Ana Rosa
+153,Ana Rosa,149,ChacaraKlabin
+149,ChacaraKlabin,150,Santos-Imigrantes
+150,Santos-Imigrantes,151,Alto do Ipiranga
+151,Alto do Ipiranga,200,Sacomã
+200,Sacomã,201,Tamanduateí
+201,Tamanduateí,202,Vila Prudente
+156,Palmeiras-Barra Funda,32,Marechal Deodoro
+32,Marechal Deodoro,33,Santa Cecília
+33,Santa Cecília,338,República
+338,República,35,Anhangabaú
+35,Anhangabaú,187,Sé
+187,Sé,36,Pedro II
+36,Pedro II,157,Brás
+157,Brás,38,Bresser-Mooca
+38,Bresser-Mooca,39,Belém
+39,Belém,182,Tatuapé
+182,Tatuapé,41,Carrão
+41,Carrão,42,Penha
+42,Penha,43,Vila Matilde
+43,Vila Matilde,44,Guilhermina-Esperança
+44,Guilhermina-Esperança,45,Patriarca
+45,Patriarca,46,Artur Alvim
+46,Artur Alvim,165,Corinthians-Itaquera
+211,Luz,212,República
+212,República,346,Higienópolis-Mackenzie
+346,Higienópolis-Mackenzie,214,Paulista
+214,Paulista,347,Oscar Freire
+347,Oscar Freire,340,Fradique Coutinho
+340,Fradique Coutinho,218,Faria Lima
+218,Faria Lima,335,Pinheiros
+335,Pinheiros,220,Butantã
+220,Butantã,354,São Paulo-Morumbi
+353,Chácara Klabin,352,Santa Cruz
+352,Santa Cruz,351,Hospital São Paulo
+351,Hospital São Paulo,350,AACD-Servidor
+350,AACD-Servidor,349,Moema
+349,Moema,348,Eucaliptos
+348,Eucaliptos,359,Campo Belo
+359,Campo Belo,345,Brooklin
+345,Brooklin,344,Borba Gato
+344,Borba Gato,343,Alto da Boa Vista
+343,Alto da Boa Vista,339,Adolfo Pinheiro
+339,Adolfo Pinheiro,59,Largo 13
+59,Largo 13,179,Santo Amaro
+179,Santo Amaro,57,Giovanni Gronchi
+57,Giovanni Gronchi,56,Vila das Belezas
+56,Vila das Belezas,55,Campo Limpo
+55,Campo Limpo,54,Capão Redondo
+170,Luz,154,Palmeiras-Barra Funda
+154,Palmeiras-Barra Funda,74,Água Branca
+74,Água Branca,73,Lapa
+73,Lapa,72,Piqueri
+72,Piqueri,71,Pirituba
+71,Pirituba,70,Vila Clarice
+70,Vila Clarice,69,Jaraguá
+69,Jaraguá,266,Vila Aurora
+266,Vila Aurora,68,Perus
+68,Perus,67,Caieiras
+67,Caieiras,66,Franco da Rocha
+66,Franco da Rocha,65,Baltazar Fidélis
+65,Baltazar Fidélis,64,Francisco Morato
+64,Francisco Morato,206,Botujuru
+206,Botujuru,205,Campo Limpo Paulista
+205,Campo Limpo Paulista,204,Várzea Paulista
+204,Várzea Paulista,203,Jundiaí
+148,Júlio Prestes,155,Palmeiras-Barra Funda
+155,Palmeiras-Barra Funda,96,Lapa
+96,Lapa,95,Domingos de Moraes
+95,Domingos de Moraes,94,Imperatriz Leopoldina
+94,Imperatriz Leopoldina,176,Presidente Altino
+176,Presidente Altino,172,Osasco
+172,Osasco,91,Comandante Sampaio
+91,Comandante Sampaio,90,Quitaúna
+90,Quitaúna,89,General Miguel Costa
+89,General Miguel Costa,88,Carapicuíba
+88,Carapicuíba,87,Santa Terezinha
+87,Santa Terezinha,86,Antônio João
+86,Antônio João,85,Barueri
+85,Barueri,84,Jardim Belval
+84,Jardim Belval,83,Jardim Silveira
+83,Jardim Silveira,82,Jandira
+82,Jandira,81,Sagrado Coração
+81,Sagrado Coração,80,Engenheiro Cardoso
+80,Engenheiro Cardoso,79,Itapevi
+173,Osasco,177,Presidente Altino
+177,Presidente Altino,97,Ceasa
+97,Ceasa,98,Vila Lobos-Jaguaré
+98,Vila Lobos-Jaguaré,190,Cidade Universitária
+190,Cidade Universitária,100,Pinheiros
+100,Pinheiros,101,Hebraica-Rebouças
+101,Hebraica-Rebouças,102,Cidade Jardim
+102,Cidade Jardim,103,Vila Olímpia
+103,Vila Olímpia,104,Berrini
+104,Berrini,105,Morumbi
+105,Morumbi,106,Granja Julieta
+106,Granja Julieta,178,Santo Amaro
+178,Santo Amaro,107,Socorro
+107,Socorro,108,Jurubatuba
+108,Jurubatuba,192,Autódromo
+192,Autódromo,197,Primavera-Interlagos
+197,Primavera-Interlagos,198,Grajaú
+-,Luz,158,Brás
+158,Brás,109,Mooca
+109,Mooca,110,Ipiranga
+110,Ipiranga,111,Tamanduateí
+111,Tamanduateí,112,São Caetano
+112,São Caetano,113,Utinga
+113,Utinga,114,Prefeito Saladino
+114,Prefeito Saladino,181,Santo André
+181,Santo André,117,Capuava
+117,Capuava,118,Mauá
+118,Mauá,119,Guapituba
+119,Guapituba,120,Ribeirão Pires
+120,Ribeirão Pires,121,Rio Grande da Serra
+169,Luz,159,Brás
+159,Brás,183,Tatuapé
+183,Tatuapé,164,Corinthians-Itaquera
+164,Corinthians-Itaquera,131,Dom Bosco
+131,Dom Bosco,132,José Bonifácio
+132,José Bonifácio,167,Guaianazes
+167,Guaianazes,134,Antonio Gianetti
+134,Antonio Gianetti,135,Ferraz de Vasconcelos
+135,Ferraz de Vasconcelos,136,Poá
+136,Poá,162,Calmon Viana
+162,Calmon Viana,137,Suzano
+137,Suzano,138,Jundiapeba
+138,Jundiapeba,139,Braz Cubas
+139,Braz Cubas,140,Mogi das Cruzes
+140,Mogi das Cruzes,141,Estudantes
+161,Brás,184,Tatuapé
+184,Tatuapé,123,Engenheiro Goulart
+123,Engenheiro Goulart,196,USP Leste
+196,USP Leste,124,Comendador Ermelino
+124,Comendador Ermelino,125,São Miguel Paulista
+125,São Miguel Paulista,199,Jardim Helena-Vila Mara
+199,Jardim Helena-Vila Mara,126,Itaim Paulista
+126,Itaim Paulista,207,Jardim Romano
+207,Jardim Romano,127,Engenheiro Manoel Feio
+127,Engenheiro Manoel Feio,128,Itaquaquecetuba
+128,Itaquaquecetuba,129,Aracaré
+129,Aracaré,163,Calmon Viana
+367,Aeroporto-Guarulhos-Jade,366,Guarulhos-CECAP-Jade
+366,Guarulhos-CECAP-Jade,362,Engenheiro Goulart-Jade
+342,Vila Prudente,341,Oratório
+341,Oratório,355,São Lucas
+355,São Lucas,356,Camilo Haddad
+356,Camilo Haddad,357,Vila Tolstói
+357,Vila Tolstói,358,Vila União
+358,Vila União,371,Jardim Planalto
+371,Jardim Planalto,372,Sapopemba
+372,Sapopemba,373,Fazenda da Juta
+373,Fazenda da Juta,374,São Mateus
+336,Morumbi,142,Diadema
+142,Diadema,143,Piraporinha
+143,Piraporinha,144,São Bernardo
+144,São Bernardo,180,Santo André
+180,Santo André,146,Sônia Maria
+146,Sônia Maria,147,São Mateus
+142,Diadema,337,Jabaquara
+144,São Bernardo, 145,Ferrazópolis
